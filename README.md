@@ -1,1 +1,2 @@
-Eiffel binding for libuv
+Eiffel binding for [libuv] (https://github.com/joyent/libuv)
+
